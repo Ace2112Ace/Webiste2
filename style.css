@@ -1,0 +1,53 @@
+* {
+    border: solid;
+}
+
+
+.header{
+    background-color: #000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.body{
+    background-color:#000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.arms{
+    background-color: #000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.legs{
+    background-color: #000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.feet{
+    background-color: #000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.socks{
+    background-color: #000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.shoe{
+    background-color: #000;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
+.shoelace{
+    background-color: #ffd700;
+    color:#ffd700;
+    display:flex;
+    justify-content:space-around;
+}
